@@ -1,4 +1,4 @@
-// Write your solution in this file!
+
 window.customerName = 'bob';
 
 function upperCaseCustomerName() {

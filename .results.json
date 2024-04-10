@@ -5,22 +5,22 @@
     "passes": 5,
     "pending": 0,
     "failures": 0,
-    "start": "2023-12-18T07:56:21.830Z",
-    "end": "2023-12-18T07:56:22.266Z",
-    "duration": 436
+    "start": "2024-04-10T17:23:52.203Z",
+    "end": "2024-04-10T17:23:52.586Z",
+    "duration": 383
   },
   "tests": [
     {
       "title": "returns the customerName",
       "fullTitle": "Fix the Scope declare customerName to be bob in global scope returns the customerName",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "modifies the customerName variable",
       "fullTitle": "Fix the Scope upperCaseCustomerName() modifies the customerName variable",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -52,14 +52,14 @@
     {
       "title": "returns the customerName",
       "fullTitle": "Fix the Scope declare customerName to be bob in global scope returns the customerName",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "modifies the customerName variable",
       "fullTitle": "Fix the Scope upperCaseCustomerName() modifies the customerName variable",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
